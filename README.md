@@ -2,8 +2,6 @@
 
 > Status: Finalizado ✔️
 
-Link: 
-
 <p>Clone bem simples do Twitter desenvolvido no curso Domine Web (Udemy)</p>
 
 ### Tecnologia Usadas:
@@ -16,12 +14,6 @@ Link:
     <td>MySQL</td>
   </tr>
 </table>
-
-### Como usar:
-<ol>
-  <li>Acesse o link: </li>
-</ol>
-
 
 ### Autor:
 Pedro Abreu </br>
