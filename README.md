@@ -10,6 +10,7 @@ Link:
 <table>
   <tr>
     <td>HTML</td>
+    <td>CSS</td>
     <td>Bootstrap</td>
     <td>PHP</td>
     <td>MySQL</td>
