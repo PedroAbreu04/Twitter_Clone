@@ -4,7 +4,7 @@
 
 Link: 
 
-<p>Clone bem simples do Twitter</p>
+<p>Clone bem simples do Twitter desenvolvido no curso Domine Web (Udemy)</p>
 
 ### Tecnologia Usadas:
 <table>
